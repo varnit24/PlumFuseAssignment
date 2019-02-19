@@ -21,4 +21,4 @@ All the input parameters that are required for the test run are being passed fro
 # How to run
 - Clone this project into your local machine
 - In case you are using windows, you would require to change the file path format in Base class under src/main/java/com.plivo.base 
-- Right click on TestNG.xml file and then run it. Extent report would be generated once the test run is completed.
+- Right click on TestNG.xml file(it is present under src/main/resources folder) and then run it. Extent report would be generated once the test run is completed.
