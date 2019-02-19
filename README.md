@@ -1,7 +1,7 @@
 # PlumFuseAssignment
 
 ## Prerequisites
-- JSD 1.8 or later
+- JDK 1.8 or later
 - Maven
 
 ### Techstack
